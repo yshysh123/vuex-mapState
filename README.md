@@ -26,8 +26,9 @@ export default new Vuex.Store({
     mutations,
 })
 ```
-# 2 #
+
 在模板中
+
 ```
 computed: {
   ...mapState([
