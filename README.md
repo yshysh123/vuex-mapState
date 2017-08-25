@@ -1,5 +1,5 @@
 # vuex-mapState
-Vuex中mapState用法
+Vuex中mapState用法小结
 
 vuex里index.js中的用法
 
